@@ -8,9 +8,11 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on--> 
 - 🤔 I’m looking for help with AWS for my FYP
 - 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: wajid.linux99@gmail.com
+- 📫 How to reach me: wajid.linux99@gmail.com || Facebook: [@AbdulWajid](https://www.facebook.com/profile.php?id=100008174927563)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about neural Networks)
+- ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about Neural Networks)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulWajid99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <!--Having selected an architecture one must then decide how large or small the neural network should be. How many inputs are there? How many hidden neurons should be used? How many hidden layers should be used (if we are using a deep neural network)? And how many outputs neurons are required? The reasons why these questions are important is because if the neural network is too large (too small) the neural network could potentially overfit (underfit) the data meaning that the network would not generalize well out of sample.
 
