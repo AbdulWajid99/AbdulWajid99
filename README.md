@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Amazon SageMaker
 - 🌱 I’m currently learning Data Science/Data Analytics/Python libraries etc.
 <!-- - 👯 I’m looking to collaborate on--> 
-- 🤔 I’m looking for help with AWS for my FYP
+- 🤔 I’m Working on UEF Aerial Plantation detection for my Final Year Project
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: wajid.linux99@gmail.com || Facebook: [@AbdulWajid](https://www.facebook.com/profile.php?id=100008174927563)
 - 😄 Pronouns: He/His
