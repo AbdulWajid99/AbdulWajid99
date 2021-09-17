@@ -7,7 +7,7 @@
 - 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python, Web development etc.
 - 🤔 Also developing "UEF Aerial Plantation detector" for my Final Year Project
 - 💬 Ask me about Artificial Intelligence, API Economy, Web development
-- 📫 How to reach me: wajid.linux99@gmail.com || [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/abdulwajid99/)  [<img src='https://image.flaticon.com/icons/png/512/187/187190.png' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)  
+- 📫 How to reach me: wajid.linux99@gmail.com ||   [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/abdulwajid99/)  
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about Neural Networks)
