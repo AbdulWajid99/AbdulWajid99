@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on API Economy, Blockchain, Quantum technologies and more..
 - 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python, Web development etc.
-<!-- - 👯 I’m looking to collaborate on--> 
-- 🤔 Also working on "UEF Aerial Plantation detection" for my Final Year Project
+- 🤔 Also developing "UEF Aerial Plantation detector" for my Final Year Project
 - 💬 Ask me about Artificial Intelligence, API Economy, Web development
-- 📫 How to reach me: wajid.linux99@gmail.com ||  [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='20](https://www.linkedin.com/in/abdulwajid99/)
+- 📫 How to reach me: wajid.linux99@gmail.com ||   
+[<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='20](https://www.linkedin.com/in/abdulwajid99/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about Neural Networks)
 
