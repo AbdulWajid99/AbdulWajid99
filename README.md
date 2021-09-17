@@ -1,15 +1,18 @@
+<img align="right" width="350px" src="https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g">
+<!-- ![](https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g) -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on Amazon SageMaker
-- 🌱 I’m currently learning Data Science/Data Analytics/Python libraries etc.
+- 🔭 I’m currently working on API Economy, Blockchain, Quantum technologies and more..
+- 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python, Web development etc.
 <!-- - 👯 I’m looking to collaborate on--> 
-- 🤔 I’m Working on UEF Aerial Plantation detection for my Final Year Project
-- 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: wajid.linux99@gmail.com || Facebook: [@AbdulWajid](https://www.facebook.com/profile.php?id=100008174927563)
+- 🤔 Also working on "UEF Aerial Plantation detection" for my Final Year Project
+- 💬 Ask me about Artificial Intelligence, API Economy, Web development
+- 📫 How to reach me: wajid.linux99@gmail.com ||  [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='20](https://www.linkedin.com/in/abdulwajid99/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about Neural Networks)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulWajid99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 
 <!--Having selected an architecture one must then decide how large or small the neural network should be. How many inputs are there? How many hidden neurons should be used? How many hidden layers should be used (if we are using a deep neural network)? And how many outputs neurons are required? The reasons why these questions are important is because if the neural network is too large (too small) the neural network could potentially overfit (underfit) the data meaning that the network would not generalize well out of sample.
 
