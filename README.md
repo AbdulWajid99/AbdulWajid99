@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on API Economy, Blockchain, Quantum technologies and more..
-- 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python, Web development etc.
+- 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python,Machine Learning, Deep Learning, Apis, Web development etc.
 - 🤔 Also developing "UEF Aerial Plantation detector" for my Final Year Project
 - 💬 Ask me about Artificial Intelligence, API Economy, Web development
 - 📫 How to reach me: wajid.linux99@gmail.com || LinkedIn :   [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/abdulwajid99/)  
