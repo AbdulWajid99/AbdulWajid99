@@ -3,8 +3,9 @@
 
 ## 👋 Hi, I'm Abdul Wajid
 
-🚀 AI/ML Engineer | AI Team Lead | AI Diploma Holder
+🚀 AI/ML Engineer | AI Team Lead | AI Diploma Holder   
 📍 Based in Riyadh | Open to global opportunities
+
 
 ---
 
