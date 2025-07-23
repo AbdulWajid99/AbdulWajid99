@@ -1,16 +1,47 @@
 <img align="right" width="350px" src="https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g">
 <!-- ![](https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g) -->
 
-### Hi there 👋
+## 👋 Hi, I'm Abdul Wajid
 
-- 🔭 I’m currently working on API Economy, Blockchain, Quantum technologies and more..
-- 🌱 Currently working for home + Freelancing in Data Science, Data Analytics, Python,Machine Learning, Deep Learning, Apis, Web development etc.
-- 🤔 Also developing "UEF Aerial Plantation detector" for my Final Year Project
-- 💬 Ask me about Artificial Intelligence, API Economy, Web development
-- 📫 How to reach me: wajid.linux99@gmail.com || LinkedIn :   [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/abdulwajid99/)  
+🚀 AI/ML Engineer | AI Team Lead | DevOps & MLOps Enthusiast | AWS & Azure Certified  
+📍 Based in Riyadh | Open to global opportunities
 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Size matters, but bigger isn't always better!(Talking about Neural Networks)
+---
+
+### 🧠 About Me
+I'm a results-driven AI/ML Engineer with 4+ years of experience leading end-to-end AI solutions across diverse domains — from healthcare and insurance to communication intelligence.
+
+Currently focused on:
+- Building scalable, production-ready AI platforms using **FastAPI**, **Docker**, **PostgreSQL**, **LangChain**, and **Groq**
+- Leading **apixAI** – a multilingual voice-to-insight analytics system
+- Architecting AI microservices including an **API Gateway**, **LLM-powered services**, and **Medical Code Extractors**
+- Experimenting with **LoRA/QLoRA**, **LLM**, **MCP**, and **LangChain**
+
+---
+
+### 💼 What I Do
+
+- 🤖 **AI/ML Solutions:** LLMs, RAG, NLP, Computer Vision, Healthcare AI, Claims Automation  
+- 🛠️ **DevOps & MLOps:** CI/CD, Docker, Linux, FastAPI, API Gateway, Uvicorn, Nginx  
+- 🧩 **Full-stack Development:** Python, Django, Flask, Streamlit, C#, HTML/CSS  
+- 🧠 **Model Training & Deployment:** Fine-tuning (LoRA/QLoRA), Torch/TensorFlow, Groq, Transformers  
+- 🔍 **Data Analytics & Pipelines:** SQL, Pandas, NumPy, Feature Engineering, ETL workflows
+
+---
+
+### 📫 Reach Me
+
+- ✉️ wajid.linux99@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/abdulwajid99)  
+- 🌐 [My Portfolio (Coming Soon)](https://github.com/AbdulWajid99)
+
+---
+
+### ⚡ Fun Fact
+Neural networks are like brains — size helps, but structure and strategy matter way more 😉
+
+---
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulWajid99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
